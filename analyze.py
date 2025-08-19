@@ -217,13 +217,13 @@ if __name__ == '__main__':
     ]
     rides_to_analyze = [
 #        {'file': 'data.txt', 'start': 16.2, 'end': 23.0},
-        {'file': 'data_corner.txt', 'start': 5, 'end': 40.0},
+       #{'file': 'data_corner.txt', 'start': 5, 'end': 40.0},
  #       {'file': 'data3.txt', 'start': 15.7, 'end': 23.0},  # No end time, will go to end of file
   #      {'file': 'data4.txt', 'start': 0.5, 'end': 5.5}, 
    #     {'file': 'data5.txt', 'start': 0.7}, 
     #    {'file': 'data6.txt', 'start': 0.2}, 
      #   {'file': 'data7.txt', 'start': 3.7}, 
-      #  {'file': 'data8.txt', 'start': 30.1},
+        {'file': 'data8.txt', 'start': 5.1,'end': 20.5},
     ]
     all_ride_data = {}
 
